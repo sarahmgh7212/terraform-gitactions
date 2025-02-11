@@ -32,4 +32,5 @@ yarn-error.log*
 *.terraform
 .terraform/
 .terraform.lock.hcl
+infrastructure/terraform-manifest/.terraform
 infrastructure/terraform-manifest/.terraform/modules
